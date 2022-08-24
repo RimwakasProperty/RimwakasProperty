@@ -7,5 +7,4 @@ print("Welcome Stranger.")
 - 📫 How to reach me: ...[Email] (kamangarichard94@gmail.com)
 - 😄 Pronouns: ...He/Him.
 - ⚡ Fun fact: ...I enjoy making new friends.
-print("Good bye my friend, see you soon.")
--->
+-print("Good bye my friend, see you soon.")
